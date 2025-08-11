@@ -1,5 +1,5 @@
-name: Setup Shorebird
-description: Install the Shorebird CLI
+name: Setup Shorebird (private)
+description: Install the Shorebird CLI (private)
 
 branding:
   icon: check-circle
